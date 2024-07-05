@@ -1,5 +1,5 @@
-import logo from '@/assets/images/ultrixlogo.png'
-import logoDark from '@/assets/images/ultrixlogo_dark.png'
+import logo from '@/assets/ultrixlogo.png'
+import logoDark from '@/assets/ultrixlogo_dark.png'
 
 import { useSelector } from 'react-redux'
 
